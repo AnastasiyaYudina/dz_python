@@ -20,11 +20,11 @@
 
 # import random
 # def find_index(list):
+#     list_index=[]
 #     for i in range(len(list)):
-#         list_index=[]
 #         if list[i]<=max and list[i]>=min:
 #             list_index.append(i)
-#         print(list_index)
+#     print(list_index)
 # len_list=int(input('Длина массива: '))
 # list=[]
 # for i in range(len_list):
